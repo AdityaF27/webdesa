@@ -1160,7 +1160,7 @@ body.dark-mode .footer-section .copyright {
 </section>
 
 
-<hr style="width: 50%; border-top: 4px solid #2E8B57; margin-left: 0; margin-right: auto; margin-top: 120px; margin-bottom: 80px;">
+<hr style="width: 50%; border-top: 4px solid #2E8B57; margin-left: auto; margin-right: 0; margin-top: 120px; margin-bottom: 80px;">
    
 
 
@@ -1293,8 +1293,7 @@ body.dark-mode .footer-section .copyright {
     
 
 
-<hr style="width: 50%; border-top: 4px solid #2E8B57; margin-left: 0; margin-right: auto; margin-top: 120px; margin-bottom: 80px;">
-
+<hr style="width: 50%; border-top: 4px solid #2E8B57; margin-left: auto; margin-right: 0; margin-top: 120px; margin-bottom: 80px;">
 
 
 
@@ -1425,7 +1424,7 @@ body.dark-mode .footer-section .copyright {
   </div>
 </section>
 
-<hr style="width: 50%; border-top: 4px solid #2E8B57; margin-left: 0; margin-right: auto; margin-top: 120px; margin-bottom: 80px;">
+<hr style="width: 50%; border-top: 4px solid #2E8B57; margin-left: auto; margin-right: 0; margin-top: 120px; margin-bottom: 80px;">
 
 
 

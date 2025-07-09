@@ -270,7 +270,7 @@ body.dark-mode hr {
 
 /* Statistik Section */
 .statistik-wrapper {
-  background-color: #f4fff8;
+ 
   padding: 80px 20px;
   text-align: center;
   transition: background-color 0.3s ease;
@@ -356,12 +356,12 @@ body.dark-mode .statistik-box p {
 
 /* ========== TENTANG DESA SECTION ========== */
 .tentang-desa-section {
-  background-color: #f4fff8;
+ 
   padding: 80px 20px;
 }
 
 .tentang-desa-text {
-  font-size: 1.1rem;
+  font-size: 22px;
   max-width: 800px;
   margin: 0 auto;
   color: #333;
@@ -1121,9 +1121,9 @@ body.dark-mode .footer-section .copyright {
 
 
 <!-- Tentang Desa -->
-<section id="profil" class="tentang-desa-section py-5" style="background-color: #f4fff8;">
+<section id="profil" class="tentang-desa-section py-5" >
   <div class="container text-center" data-aos="fade-up" data-aos-duration="1000">
-    <p class="tentang-desa-text mb-3">
+    <p class="tentang-desa-text mb-3 fs-5">
       Desa Segunung adalah desa yang berada di Kabupaten Mojokerto, dengan visi membangun masyarakat mandiri, sejahtera dan berbudaya.
     </p>
     <hr class="tentang-desa-divider mb-4">
